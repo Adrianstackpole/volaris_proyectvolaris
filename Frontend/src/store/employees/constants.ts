@@ -1,0 +1,1 @@
+export const GET_RESPONSIVES = 'GET_RESPONSIVES'
